@@ -7,7 +7,7 @@ This project focuses on performing sentiment analysis using natural language pro
 ## 📂 Dataset
 
 * **Source**: [Amazon Reviews Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
-* **Description**: This dataset contains over 500,000 food reviews from Amazon, including attributes like review text, rating, summary, and helpfulness.
+* **Description**: This dataset contains over 500,000 reviews from Amazon, including attributes like review text, rating, summary, and helpfulness.
 
 > **Note:** The dataset is not included in this repository due to size constraints. Please download it from the Kaggle link above and place it in the project directory.
 
